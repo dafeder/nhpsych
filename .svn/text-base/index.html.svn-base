@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>NHPS :: New Hampshire Psychiatric Society</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" href="styles.css" type="text/css" />
+	<script type="text/javascript" src="column.js"></script>
+</head>
+
+<body>
+<div id="pagetable">
+	<div id="leftspacetop">
+		<img id="leftspacetop" src="images/leftspacetop.gif" width="7" height="134" alt="" />
+	</div>
+	<div id="seal">
+		<a href="/">
+			<img id="seal_img" src="images/seal.gif" width="188" height="189" border="0" alt="New Hampshire Psychiatric Society" /></a>
+	</div>
+	<div id="topright">
+	</div>
+	<div id="banner">
+		<a href="/">
+			<img id="banner_img" src="images/banner.gif" width="499" height="73" border="0" alt="Serving the Mental Health Needs of New Hampshire Citizens" /></a>
+	</div>
+	<div id="rightspace">
+	</div>
+	<div id="leftspacebot">
+	</div>
+	<div id="leftnavbar">
+		<div class="leftnavtext"><a href="index.html">Home</a>
+			<p><a href="news.html">News and Updates</a></p>
+			<p><a href="objectives.html">Our Objectives</a></p>
+			<p><a href="about.html">What Is A Psychiatrist?</a></p>
+			<p><a href="officers.html">Officers and Executive Council</a></p>
+			<p><a href="info.html">Information For Patients and Families</a></p>
+			<!-- <p><a href="meetings.html">Upcoming Meetings</a></p> -->
+			<p><a href="links.html">Links</a></p>
+			<p><a href="classified.html">Classified Ads</a></p>
+		</div>
+		<div class="leftfineprint">
+			<p>Contents &copy; 2004&ndash;2008 
+			<br>New Hampshire Psychiatric Society
+			<br>7 North State St.
+			<br>Concord, NH 03301
+			<br>Tel. (603) 224-7083</p>
+			<p><em>Please email all submissions or inquiries to Robert Feder at feder&#64;charter&#46;&#110;&#101;&#116;</em></p>
+		</div>
+	</div>	
+	<div id="maincontent"><span class="maincontenttext">
+		<p>The New Hampshire Psychiatric Society (NHPS) is a professional organization of approximately 160 physicians specializing in the treatment of mental illness.</p>
+		<p>NHPS is the official voice of organized psychiatry in New Hampshire.  Founded in 1972, NHPS is a District Branch of the American Psychiatric Association, the national medical specialty society for 40,000 physician members, and the official voice of Psychiatry in the United States.  NHPS is devoted to promoting the highest standards of care for the treatment of mental illness and substance abuse in New Hampshire.</p>
+
+		<div class="contentgridl">
+			<h3>News and Updates</h3>
+			May 2008 APA Assembly Report... <a href="news.html">MORE</a>
+			<br /><br />
+			<h3>Our Objectives</h3>
+			To improve the treatment, rehabilitation, and care of people with mental illness, mental retardation, and emotional disorders... <a href="objectives.html">MORE</a>
+			<br /><br />
+			<h3>What is a Psychiatrist?</h3>
+			Psychiatrists are medical doctors (MDs) specializing in the diagnosis, treatment, and prevention of mental illnesses and substance use disorders... <a href="about.html">MORE</a>
+		</div>
+		
+		<div class="contentgridr">
+			<h3>Information For Patients and Families</h3>
+			Where to read more about anxiety, depression, substance abuse, and other disorders... <a href="info.html">MORE</a>
+			<br /><br />
+			<h3>Officers and Executive Council</h3>
+			Information on the men and women who lead NHPS... <a href="officers.html">MORE</a>
+			<br /><br />
+			<h3>Links</h3>
+			Organizations and resources related to our work... <a href="links.html">MORE</a>
+			<br /><br />
+			<h3><a href="classified.html">Classified Ads</a></h3>
+		</div>
+
+	</span></div>
+</div>
+</body>
+</html>

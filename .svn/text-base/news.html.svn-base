@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>NHPS :: News and Updates</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" href="styles.css" type="text/css" />
+	<script type="text/javascript" src="column.js"></script>
+</head>
+
+<body>
+<div id="pagetable">
+	<div id="leftspacetop">
+		<img id="leftspacetop" src="images/leftspacetop.gif" width="7" height="134" alt="" />
+	</div>
+	<div id="seal">
+		<a href="/">
+			<img id="seal_img" src="images/seal.gif" width="188" height="189" border="0" alt="New Hampshire Psychiatric Society" /></a>
+	</div>
+	<div id="topright">
+	</div>
+	<div id="banner">
+		<a href="/">
+			<img id="banner_img" src="images/banner.gif" width="499" height="73" border="0" alt="Serving the Mental Health Needs of New Hampshire Citizens" /></a>
+	</div>
+	<div id="rightspace">
+	</div>
+	<div id="leftspacebot">
+	</div>
+	<div id="leftnavbar">
+		<div class="leftnavtext"><a href="index.html">Home</a>
+			<p><a href="news.html">News and Updates</a></p>
+			<p><a href="objectives.html">Our Objectives</a></p>
+			<p><a href="about.html">What Is A Psychiatrist?</a></p>
+			<p><a href="officers.html">Officers and Executive Council</a></p>
+			<p><a href="info.html">Information For Patients and Families</a></p>
+			<!-- <p><a href="meetings.html">Upcoming Meetings</a></p> -->
+			<p><a href="links.html">Links</a></p>
+			<p><a href="classified.html">Classified Ads</a></p>
+		</div>
+		<div class="leftfineprint">
+			<p>Contents &copy; 2004&ndash;2008 
+			<br>New Hampshire Psychiatric Society
+			<br>7 North State St.
+			<br>Concord, NH 03301
+			<br>Tel. (603) 224-7083</p>
+			<p><em>Please email all submissions or inquiries to Robert Feder at feder&#64;charter&#46;&#110;&#101;&#116;</em></p>
+		</div>
+	</div>	
+	<div id="maincontent"><span class="maincontenttext">
+		<h1>News and Updates</h1>
+
+		<h2 style="text-align:center">May 2008 APA Assembly Report 
+		<br /><small>Robert Feder, M.D.
+		<br />New Hampshire Assembly Rep</small></h2>
+
+		<ol type="I">
+			<li>
+				<p>Financial Status</p>
+				<p>Despite a small decline in membership and a significant decrease in revenue from pharmaceutical company sources, the overall financial status of the APA remains strong.</p>
+			</li>
+			<li>
+				<p>Elections</p>
+				<p>Gary Weinstein, M.D. was elected for Speaker-Elect of the Assembly, and Bruce Hershfield, M.D. was elected for Recorder. </p>
+        <p>The Assembly passed a Bylaws Change which separates the national office of Secretary-Treasurer back to two separate offices of Secretary and Treasurer.  The offices were combined about 5 years ago as a cost-saving measure.  As the amount of work involved for the combined office is enormous, and the APA is now in a stronger financial position, the offices were again distinguished. </p>
+			</li>
+			<li>
+				<p>Relations between the Assembly and the Board</p>
+				<p>The Task Force on Assembly-Board Relations presented its report to the Assembly. This origin of this task force was in the Assembly&rsquo;s ongoing attempt to have more power in relation to APA decision-making. (Currently, the Board is the final word for any policy, position, or action changes). The task force was made up of members of both the Board and the Assembly.  It recommended a two-year trial period of increased communication between the Board and the Assembly, with the APA President reporting directly to the Assembly the rationale for any Assembly actions which were voted down by the Board.  After heated debate and attempts by some Assembly members to establish the grounds for taking more power from the Board, the Assembly ultimately approved the Task Force&rsquo;s report.</p>
+			</li>
+			<li>
+				<p>Action Papers</p>
+				<p>There were three action papers of note passed by the Assembly:</p>
+				<ol type="1">
+					<li>Recommending to psychiatry residency programs that they allow residents adequate maternity leave which would not require residents to make up an entire year if they were out for a portion of a year.</li>
+					<li>Creation of a task force to collect comparative information on various health care systems throughout the world, how they are financed, outcome measures, and how they handle mental health services.  This information would be distributed to APA members as well as members of the government involved in health care reform.</li>
+					<li>Revising all DSM &ldquo;Not Otherwise Specified&rdquo; diagnoses to include a statement regarding significant distress or impairment in social, occupational, or other important areas of functioning.</li>
+				</ol>
+				<p>All of the above action papers will require approval by the Board prior to implementation.</p>
+			</li>
+		</ol>
+
+	</span></div>
+</div>
+</body>
+</html>

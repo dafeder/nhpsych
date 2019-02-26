@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>NHPS :: Information for Patients and Families</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<link rel="stylesheet" href="styles.css" type="text/css" />
+	<script type="text/javascript" src="column.js"></script>	
+</head>
+
+<body>
+<div id="pagetable">
+	<div id="leftspacetop">
+		<img id="leftspacetop" src="images/leftspacetop.gif" width="7" height="134" alt="" />
+	</div>
+	<div id="seal">
+		<a href="/">
+			<img id="seal_img" src="images/seal.gif" width="188" height="189" border="0" alt="New Hampshire Psychiatric Society" /></a>
+	</div>
+	<div id="topright">
+	</div>
+	<div id="banner">
+		<a href="/">
+			<img id="banner_img" src="images/banner.gif" width="499" height="73" border="0" alt="Serving the Mental Health Needs of New Hampshire Citizens" /></a>
+	</div>
+	<div id="rightspace">
+	</div>
+	<div id="leftspacebot">
+	</div>
+	<div id="leftnavbar">
+		<div class="leftnavtext"><a href="index.html">Home</a>
+			<p><a href="news.html">News and Updates</a></p>
+			<p><a href="objectives.html">Our Objectives</a></p>
+			<p><a href="about.html">What Is A Psychiatrist?</a></p>
+			<p><a href="officers.html">Officers and Executive Council</a></p>
+			<p><a href="info.html">Information For Patients and Families</a></p>
+			<!-- <p><a href="meetings.html">Upcoming Meetings</a></p> -->
+			<p><a href="links.html">Links</a></p>
+			<p><a href="classified.html">Classified Ads</a></p>
+		</div>
+		<div class="leftfineprint">
+			<p>Contents &copy; 2004&ndash;2008 
+			<br>New Hampshire Psychiatric Society
+			<br>7 North State St.
+			<br>Concord, NH 03301
+			<br>Tel. (603) 224-7083</p>
+			<p><em>Please email all submissions or inquiries to Robert Feder at feder&#64;charter&#46;&#110;&#101;&#116;</em></p>
+		</div>
+	</div>	
+	<div id="maincontent"><span class="maincontenttext">
+		<h1>Information for Patients and Families</h1>
+		<h2>Follow these links for information about...</h2>
+		<blockquote>
+			<a href="http://healthyminds.org/multimedia/anxietydisorders.pdf" target="_blank">Anxiety Disorders</a>
+			<br /><a href="http://www.nimh.nih.gov/publicat/adhd.cfm" target="_blank">Attention Deficit/Hyperactivity Disorder (ADHD)</a>
+			<br /><a href="http://healthyminds.org/multimedia/bipolardisorder.pdf" target="_blank">Bipolar Disorder (Manic Depression)</a>
+			<br /><a href="http://www.bpdresourcecenter.org/what.htm" target="_blank">Borderline Personality Disorder</a>
+			<br /><a href="http://healthyminds.org/multimedia/commonchildhooddisorders.pdf" target="_blank">Childhood Disorders</a>
+			<br /><a href="http://healthyminds.org/multimedia/choosingapsych.pdf" target="_blank">Choosing a Psychiatrist</a>
+			<br /><a href="http://healthyminds.org/multimedia/depression.pdf" target="_blank">Depression</a>
+			<br /><a href="http://healthyminds.org/multimedia/eatingdisorders.pdf" target="_blank">Eating Disorders</a>
+			<br /><a href="http://www.nimh.nih.gov/healthinformation/ocdmenu.cfm" target="_blank">Obsessive-Compulsive Disorder</a>
+			<br /><a href="http://www.nimh.nih.gov/publicat/panicfacts.cfm" target="_blank">Panic Disorder</a>
+			<br /><a href="http://healthyminds.org/multimedia/phobias.pdf" target="_blank">Phobias</a>
+			<br /><a href="http://healthyminds.org/multimedia/ptsd.pdf" target="_blank">Posttraumatic Stress Disorder (PTSD)</a>
+			<br /><a href="http://www.nimh.nih.gov/publicat/schizoph.cfm#schiz3" target="_blank">Schizophrenia</a>
+			<br /><a href="http://www.nida.nih.gov/" target="_blank">Substance Abuse</a>
+			<br /><a href="http://healthyminds.org/multimedia/teensuicide.pdf" target="_blank">Teen Suicide</a>
+		</blockquote>
+		<p><em>NOTE: <a href="http://www.adobe.com/products/acrobat/readstep2.html" target="_blank">Adobe Acrobat Reader</a> software required to view many of these links.
+	</span></div>
+</div>
+</body>
+</html>
